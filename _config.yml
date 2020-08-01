@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "ARM 2019 - Workshop on Adaptive and Reflexive Middleware"
+title:       "ARM 2020 - Workshop on Adaptive and Reflexive Middleware"
 keywords:    "Middleware, Adaptive Middleware, Reflexive Middleware, Tools"
 description: "Workshop on Adaptive and Reflexive Middleware"
 source_link: ""
