@@ -1,0 +1,137 @@
+
+CALL FOR PAPERS 
+
+18th Workshop on Adaptive and Reflective Middleware (ARM 2019) 
+co-located with Middleware 2019, 9th December 2019, UC Davis, CA, USA
+
+https://arm2019.github.io/
+
+Important Dates
+---------------
+All deadlines are 11:59 PM (AoE Anywhere on Earth)
+
+Paper submission: September 20, 2019
+Acceptance notification: October 3, 2019
+Camera-ready: October 17, 2019
+Workshop: December 9, 2019
+
+Workshop Overview
+-----------------
+
+The Adaptive and Reflective Middleware (ARM) workshop series started together
+with the ACM/IFIP/USENIX International Middleware Conference, with which it has
+been co-located every year since this first edition. It is now an established
+venue to provide researchers with a leading edge view on the state of the art in
+adaptive middleware and the engineering of adaptive and autonomous distributed
+systems. New classes of applications such as smart and connected city
+applications, industrial networked and cloud applications, the Internet of
+Things, intelligent transport, smart grids, and their combination drive the need
+for new adaptive middleware solutions. Applying reflective techniques to open-up
+the implementation of middleware and related software platforms for
+interoperability, one-to-many deployment, and adaptability have proved
+particularly successful and influential in the past. However, there are still
+open challenges, such as scalability and decentralized management as well as
+resilient real-time operations that require further investigation to address
+new use cases in large deployment contexts.
+
+Past editions of the workshop have brought together experts involved in
+designing and reusing adaptive systems at different system layers, including
+architectural, OS, virtualization technology, and network layers, as well as in
+using adaptation techniques that are complementary to reflection. The workshop
+series also seek to provide an exciting environment in which to leverage
+cooperation among researchers.
+
+
+Topics of interest include, but are not limited to:
+
+* Design and performance of adaptive and/or reflective middleware platforms
+* Experiences with adaptive and reflective technologies in specific domains
+  (e.g., sensor networks, ubiquitous/pervasive computing, mobile computing,
+  smart and connected communities, Internet of Things, cloud/grid computing,
+  P2P, Systems-of-Systems)
+* Cross-layer interactions and adaptation mechanisms, including network, OS, VM
+  & device level techniques
+* Adaptation and reflection in the presence of heterogeneous execution and
+  programming paradigms
+* Application of adaptive and reflective middleware techniques to achieve:
+  reconfigurability and/or adaptability and/or separation of concerns; reuse;
+  and reification of adaptation techniques and strategies
+* Incorporating non-functional properties into middleware, including real-time,
+  fault- tolerance, immutability, persistence, security, trust, privacy and so
+  on
+* Fundamental developments in the theory and practice of reflection, adaptation
+  and control, as it relates to middleware and its interaction with other layers
+* Techniques to improve performance and/or scalability of adaptive and
+  reflective mechanisms
+* Evaluation methodologies for adaptive and reflective middleware; guidelines,
+  testbeds and benchmarks
+* Approaches to maintain the integrity of adaptive and reflective technologies;
+  convergence of adaptation
+* Tool support for adaptive and reflective middleware
+* Design and programming abstractions to manage the complexity of adaptive and
+  reflective mechanisms
+* Software engineering methodologies for the design and development of adaptive
+  middleware
+* Methods for reasoning, storing and dynamically updating knowledge about the
+  services provided by adaptive/reflective middleware
+* The role of techniques such as learning in the design of long-lived adaptive
+  middleware
+* Methods for asynchronous, distributed, control, coordination/cooperation among
+  components providing middleware services
+* Metrics on properties such as cost-of-adaptation, quality-of-adaptation,
+  consistency-of- adaptation, yields
+
+Submission Guidelines
+---------------------
+
+All submissions should be made electronically through:
+https://arm2019.hotcrp.com
+
+Submitted and accepted papers should be no longer than 6 pages in the standard
+ACM format for conference proceedings.  Document templates for most popular
+document processing tools can be found at:
+http://www.acm.org/sigs/publications/proceedings-templates
+
+At least one author on each accepted paper must hold a full pre-conference
+registration. Papers will be available in the ACM Digital Library.
+
+We will aim to create better outreach for the papers in ARM by selecting the
+best papers from the workshop and inviting the authors of those papers to submit
+an extended and expanded manuscript (40% new material will be required for the
+extended manuscript) towards a publication in the SpringerNature Journal of
+Internet Services and Applications.
+
+
+Workshop Co-Chairs
+------------------
+* Paul Grace, Aston University, UK
+* Mohan Kumar, Rochester Institute of Technology, USA
+* Marco Netto, IBM Research, Brazil
+
+Contact: mstelmar at br(dot)ibm(dot)com
+
+
+Steering Committee
+--------------------
+* Gordon Blair, Lancaster Univ., UK.
+* Fabio M Costa, Federal Univ of Goias, Brazil.
+* Fabio Kon, Univ. of Sao Paulo, Brazil.
+* Renato Cerqueira, IBM Research, Brazil.
+* Paulo Ferreira, INESC-ID, Portugal.
+* Nalini Venkatasubramanian, Univ. of California, Irvine, USA.
+
+
+Programme Committee
+-------------------
+* Francois Taiani, University of Rennes 1, France
+* Francoise Sailhan, CNAM, Paris, France
+* Frank Eliassen, University of Oslo, Norway
+* Gang Huang, Peking University, China
+* Jan S. Rellermeyer, TU Delft, The Netherlands
+* Kyoungho An, RTI Inc, USA
+* Luis Veiga, Universidade de Lisboa /INESC-ID, Portugal
+* Nikolaos Georgantas, INRIA, France
+* Philippe Merle, INRIA, France
+* Thomas Ledoux, IMT Atlantique, France
+* Tobias Distler, FAU, Germany
+* Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
