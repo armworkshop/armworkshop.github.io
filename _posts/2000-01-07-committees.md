@@ -9,9 +9,11 @@ icon-title: true
 
 ## Chairs 
 
-* [Paul Grace](https://sites.google.com/site/pjgrace/home), Aston University, UK 
-* [Mohan Kumar](https://www.cs.rit.edu/~mjk/), Rochester Institute of Technology, USA
-* [Marco Netto](http://www.marconetto.me), IBM Research, Brazil
+* [Renato Cerqueira](https://researcher.watson.ibm.com/researcher/view.php?person=br-rcerq), IBM Research, Brazil
+* [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html), San Diego State University, USA
+
+## Publicity Chair
+* Yusuf Sarwar, Univ. of Missouri, Kansas CIty, USA
 
 ## Steering Comittee
 
@@ -24,6 +26,14 @@ icon-title: true
 
 ## Programme Committee
 
+### TBD
+
+<!--
+* [Paul Grace](https://sites.google.com/site/pjgrace/home), Aston University, UK 
+* [Mohan Kumar](https://www.cs.rit.edu/~mjk/), Rochester Institute of Technology, USA
+* [Marco Netto](http://www.marconetto.me), IBM Research, Brazil
+
+
 * Francois Taiani, University of Rennes 1, France
 * Francoise Sailhan, CNAM, Paris, France
 * Frank Eliassen, University of Oslo, Norway
@@ -35,5 +45,5 @@ icon-title: true
 * Philippe Merle, INRIA, France 
 * Thomas Ledoux, IMT Atlantique, France 
 * Tobias Distler, FAU, Germany
-* Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
-
+* Yusuf Sarwar, Univ. of Missouri, Kansas CIty, USA
+-->
