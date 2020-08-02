@@ -13,7 +13,7 @@ icon-title: true
 * [Shangping Ren](https://icip.sdsu.edu/memberProfile/shangping.html), San Diego State University, USA
 
 ## Publicity Chair
-* Yusuf Sarwar, Univ. of Missouri, Kansas CIty, USA
+* [Yusuf Sarwar](http://m.web.umkc.edu/mu9b4/), University of Missouri-Kansas City, USA
 
 ## Steering Comittee
 
