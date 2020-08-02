@@ -1,96 +1,111 @@
 
 CALL FOR PAPERS 
 
-18th Workshop on Adaptive and Reflective Middleware (ARM 2019) 
-co-located with Middleware 2019, 9th December 2019, UC Davis, CA, USA
+19th Workshop on Adaptive and Reflective Middleware (ARM 2020) 
+co-located with Middleware 2020, December 7-11, 2020, Delft, The Netherlands
 
-https://arm2019.github.io/
+https://armworkshop.github.io/
 
 Important Dates
 ---------------
 All deadlines are 11:59 PM (AoE Anywhere on Earth)
 
-Paper submission: September 20, 2019
-Acceptance notification: October 3, 2019
-Camera-ready: October 17, 2019
-Workshop: December 9, 2019
+Paper submission: September 14, 2020 (firm deadline)
+Acceptance notification: October 5, 2020
+Camera-ready: October 16, 2020 (firm deadline)
+Workshop: December 7-11, 2020
+
 
 Workshop Overview
 -----------------
 
-The Adaptive and Reflective Middleware (ARM) workshop series started together
-with the ACM/IFIP/USENIX International Middleware Conference, with which it has
-been co-located every year since this first edition. It is now an established
-venue to provide researchers with a leading edge view on the state of the art in
-adaptive middleware and the engineering of adaptive and autonomous distributed
-systems. New classes of applications such as smart and connected city
-applications, industrial networked and cloud applications, the Internet of
-Things, intelligent transport, smart grids, and their combination drive the need
-for new adaptive middleware solutions. Applying reflective techniques to open-up
-the implementation of middleware and related software platforms for
-interoperability, one-to-many deployment, and adaptability have proved
-particularly successful and influential in the past. However, there are still
-open challenges, such as scalability and decentralized management as well as
-resilient real-time operations that require further investigation to address
-new use cases in large deployment contexts.
 
-Past editions of the workshop have brought together experts involved in
-designing and reusing adaptive systems at different system layers, including
-architectural, OS, virtualization technology, and network layers, as well as in
-using adaptation techniques that are complementary to reflection. The workshop
-series also seek to provide an exciting environment in which to leverage
-cooperation among researchers.
+The 19th Workshop on Adaptive and Reflective Middleware (ARM 2020) will
+celebrate 20 years since the first edition of the workshop, held in conjunction
+with the ACM/IFIP/USENIX Middleware 2000 Conference in Palisades, NY, USA.
+This year, we intend to follow on the success of over two decades of previous
+editions providing researchers with a leading edge view on the state of the art
+in adaptive middleware and the engineering of adaptive and autonomous
+distributed systems. New classes of applications such as smart and connected
+city applications, industrial networked and cloud applications, the Internet of
+Things, intelligent transport, smart grids, Blockchain networks and their
+combination drive the need for new adaptive middleware solutions.
 
+Applying reflective techniques to open-up the implementation of middleware and
+related software platforms for interoperability, one-to-many deployment, and
+adaptability have proved particularly successful and influential in the past.
+However, there are still open challenges, such as scalability and decentralized
+management as well as resilient and autonomous real-time operations, that
+require further investigation to address new use cases in large and diverse
+deployment contexts, such as smart city infrastructures (transportation
+networks, smart grids, and water systems), communication networks, healthcare
+platforms, etc.
+ 
+This edition follows the path initiated in recent editions, by bringing
+together experts involved in designing and reusing adaptive systems at
+different system layers, including architectural, OS, virtualization
+technology, and network layers, as well as in using techniques that are
+complementary to reflection. The workshop series also seek to provide an
+exciting environment to foster cooperation among researchers.
 
-Topics of interest include, but are not limited to:
+ 
+Topics of interest include but are not limited to: 
 
-* Design and performance of adaptive and/or reflective middleware platforms
+* Design and performance of adaptive and reflective middleware platforms; 
+
 * Experiences with adaptive and reflective technologies in specific domains
   (e.g., sensor networks, ubiquitous/pervasive computing, mobile computing,
-  smart and connected communities, Internet of Things, cloud/grid computing,
-  P2P, Systems-of-Systems)
-* Cross-layer interactions and adaptation mechanisms, including network, OS, VM
-  & device level techniques
+  smart and connected communities, cyber-physical systems, Internet of Things,
+  cloud computing, P2P, Systems-of-Systems); 
+  
+* Cross-layer interactions and adaptation mechanisms, including network, OS,
+  VM & device level techniques;
+  
 * Adaptation and reflection in the presence of heterogeneous execution and
-  programming paradigms
-* Application of adaptive and reflective middleware techniques to achieve:
-  reconfigurability and/or adaptability and/or separation of concerns; reuse;
-  and reification of adaptation techniques and strategies
+  programming paradigms;
+   
 * Incorporating non-functional properties into middleware, including real-time,
-  fault- tolerance, immutability, persistence, security, trust, privacy and so
-  on
+  fault-tolerance, immutability, persistence, security, trust, privacy and
+  so on;
+  
 * Fundamental developments in the theory and practice of reflection, adaptation
-  and control, as it relates to middleware and its interaction with other layers
+  and control, as it relates to middleware and its interaction with other layers;
+  
 * Techniques to improve performance and/or scalability of adaptive and
-  reflective mechanisms
+  reflective mechanisms;
+  
 * Evaluation methodologies for adaptive and reflective middleware; guidelines,
-  testbeds and benchmarks
+  testbeds and benchmarks;
+  
 * Approaches to maintain the integrity of adaptive and reflective technologies;
-  convergence of adaptation
-* Tool support for adaptive and reflective middleware
+ 
 * Design and programming abstractions to manage the complexity of adaptive and
-  reflective mechanisms
+  reflective mechanisms;
+  
 * Software engineering methodologies for the design and development of adaptive
-  middleware
+  middleware;
+  
 * Methods for reasoning, storing and dynamically updating knowledge about the
-  services provided by adaptive/reflective middleware
-* The role of techniques such as learning in the design of long-lived adaptive
-  middleware
-* Methods for asynchronous, distributed, control, coordination/cooperation among
-  components providing middleware services
+  services provided by adaptive/reflective middleware;
+  
+* The role of AI and machine learning in the design of lifelong adaptive
+  middleware;
+  
 * Metrics on properties such as cost-of-adaptation, quality-of-adaptation,
-  consistency-of- adaptation, yields
+  consistency-of-adaptation, yields.
+ 
+
+
 
 Submission Guidelines
 ---------------------
 
-All submissions should be made electronically through:
-https://arm2019.hotcrp.com
+All submissions should be made electronically through HotCRP (submission link will be provided at https://armworkshop.github.io/).
 
 Submitted and accepted papers should be no longer than 6 pages in the standard
 ACM format for conference proceedings.  Document templates for most popular
 document processing tools can be found at:
-http://www.acm.org/sigs/publications/proceedings-templates
+https://www.acm.org/publications/proceedings-template
 
 At least one author on each accepted paper must hold a full pre-conference
 registration. Papers will be available in the ACM Digital Library.
@@ -104,12 +119,17 @@ Internet Services and Applications.
 
 Workshop Co-Chairs
 ------------------
-* Paul Grace, Aston University, UK
-* Mohan Kumar, Rochester Institute of Technology, USA
-* Marco Netto, IBM Research, Brazil
+* Renato Cerqueira, IBM Research, Brazil
+* Shangping Ren, San Diego State University, USA
 
-Contact: mstelmar at br(dot)ibm(dot)com
+Contact: rcerq at br(dot)ibm(dot)com
 
+
+Publicity Chair
+---------------
+* Yusuf Sarwar, University of Missouri-Kansas City, USA
+
+Contact: muddin at umkc(dot)edu
 
 Steering Committee
 --------------------
@@ -123,15 +143,4 @@ Steering Committee
 
 Programme Committee
 -------------------
-* Francois Taiani, University of Rennes 1, France
-* Francoise Sailhan, CNAM, Paris, France
-* Frank Eliassen, University of Oslo, Norway
-* Gang Huang, Peking University, China
-* Jan S. Rellermeyer, TU Delft, The Netherlands
-* Kyoungho An, RTI Inc, USA
-* Luis Veiga, Universidade de Lisboa /INESC-ID, Portugal
-* Nikolaos Georgantas, INRIA, France
-* Philippe Merle, INRIA, France
-* Thomas Ledoux, IMT Atlantique, France
-* Tobias Distler, FAU, Germany
-* Yusuf Sarwar, Univ. of MIssouri, Kansas CIty, USA
+TBD
