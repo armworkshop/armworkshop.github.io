@@ -9,11 +9,7 @@ icon-title: true
 
 ### Submission
 
-All submissions should be made electronically through HotCRP (Submission link will be provided). 
-
-<!--
-All submissions should be made electronically through: <a href="https://arm2019.hotcrp.com"> https://arm2019.hotcrp.com </a>
--->
+All submissions should be made electronically through: <a href="https://arm2020.hotcrp.com"> https://arm2020.hotcrp.com </a>.
 
 Submitted and accepted papers should be no longer than 6 pages in <a href="https://www.acm.org/publications/proceedings-template">the standard ACM format for conference proceedings</a>.
 

@@ -21,32 +21,33 @@ Workshop Overview
 
 
 The 19th Workshop on Adaptive and Reflective Middleware (ARM 2020) will
-celebrate 20 years since the first edition of the workshop, held in conjunction
-with the ACM/IFIP/USENIX Middleware 2000 Conference in Palisades, NY, USA.
-This year, we intend to follow on the success of over two decades of previous
-editions providing researchers with a leading edge view on the state of the art
-in adaptive middleware and the engineering of adaptive and autonomous
-distributed systems. New classes of applications such as smart and connected
-city applications, industrial networked and cloud applications, the Internet of
-Things, intelligent transport, smart grids, Blockchain networks and their
-combination drive the need for new adaptive middleware solutions.
+celebrate 20 years since its first edition, held in conjunction with
+the ACM/IFIP/USENIX Middleware 2000 Conference in Palisades, NY, USA.
+This year, we intend to follow on the success of over two decades of this
+event, providing researchers with a leading-edge view on the state of the
+art in adaptive middleware and the engineering of adaptive and autonomous
+distributed systems, as well as fostering an exciting environment for
+cooperation among researchers.
+
+Originally, adaptive and reflective middleware was motivated mainly by
+resource-constrained devices and mobile computing. Nowadays, the evolution
+of adaptive middleware technologies is driven by new classes of large-scale
+distributed, pervasive and resilient applications for multi and hybrid cloud,
+Internet of Things, smart cities, intelligent transportation, smart grids,
+Blockchain networks, resilient supply chains, remote healthcare, among others.
 
 Applying reflective techniques to open-up the implementation of middleware and
 related software platforms for interoperability, one-to-many deployment, and
 adaptability have proved particularly successful and influential in the past.
-However, there are still open challenges, such as scalability and decentralized
-management as well as resilient and autonomous real-time operations, that
-require further investigation to address new use cases in large and diverse
-deployment contexts, such as smart city infrastructures (transportation
-networks, smart grids, and water systems), communication networks, healthcare
-platforms, etc.
- 
-This edition follows the path initiated in recent editions, by bringing
-together experts involved in designing and reusing adaptive systems at
-different system layers, including architectural, OS, virtualization
-technology, and network layers, as well as in using techniques that are
-complementary to reflection. The workshop series also seek to provide an
-exciting environment to foster cooperation among researchers.
+However, there are still open challenges mainly related to scalability,
+heterogeneity and decentralized management, as well as resilient and autonomous
+real-time operations.
+
+Following the trend in recent editions, this year the ARM workshop
+will bring together experts involved in designing and reusing adaptive systems
+at different layers, including application architecture, OS, virtualization
+technology and network. We are also interested in work exploring abstractions
+and techniques for adaptation that are complementary to reflection.
 
  
 Topics of interest include but are not limited to: 
@@ -100,7 +101,7 @@ Topics of interest include but are not limited to:
 Submission Guidelines
 ---------------------
 
-All submissions should be made electronically through HotCRP (submission link will be provided at https://armworkshop.github.io/).
+All submissions should be made electronically through https://arm2020.hotcrp.com.
 
 Submitted and accepted papers should be no longer than 6 pages in the standard
 ACM format for conference proceedings.  Document templates for most popular
