@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-bg: gray
+bg: '#282828'
 color: white
 style: left
 fa-icon: users
@@ -24,11 +24,13 @@ icon-title: true
 * Paulo Ferreira, INESC-ID, Portugal.
 * Nalini Venkatasubramanian, Univ. of California, Irvine, USA.
 
+<!--
+
 ## Programme Committee
 
 ### TBD
 
-<!--
+
 * [Paul Grace](https://sites.google.com/site/pjgrace/home), Aston University, UK 
 * [Mohan Kumar](https://www.cs.rit.edu/~mjk/), Rochester Institute of Technology, USA
 * [Marco Netto](http://www.marconetto.me), IBM Research, Brazil

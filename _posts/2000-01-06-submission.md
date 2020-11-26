@@ -1,6 +1,6 @@
 ---
 title: "Submission"
-bg: purple
+bg: '#38146b'
 color: white
 style: left
 fa-icon: check
